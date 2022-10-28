@@ -1,0 +1,33 @@
+Company - Booking.com
+Exercise - CRM Operations Lead Specialist
+Name - Godwin Terhemba Apegba
+
+---------------------------------------------------------------
+
+Tools used
+ - Visial Studio Code
+ - Snipping tool
+ - Photoshop
+ - Litmus Putsmail https://putsmail.com/inliner
+ - Reference Source - w3schools.com
+
+---------------------------------------------------------------
+
+Image url
+ - Top Banner - https://i.ibb.co/Z1j5Qvf/banner.png
+ - Logo - https://i.ibb.co/WKWHDmQ/booking-logo-white.png
+ - Left Column image - https://i.ibb.co/fDqvc3y/column-img1.png
+ - Right Column image - https://i.ibb.co/W6RwG1R/column-img2.png
+ - Genius icon - https://i.ibb.co/4Wmy1gw/genius.png
+ - Profile image - https://i.ibb.co/J3c13bQ/profile-img.png
+ - Search icon - https://i.ibb.co/mtQnFZT/search.png
+
+
+Image Assets - Screenshot from figma asset
+
+
+
+Thank you!
+
+
+
